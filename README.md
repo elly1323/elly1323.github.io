@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Στοιχεία: 
 
-You can use the [editor on GitHub](https://github.com/elly1323/elly1323.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Όνομα: Παπαγρηγορίου Ελισσάβετ      Α.Μ. Π2013025
+Link παιχνιδιού: https://elly1323.github.io/pacman/
+Link στο οποίο έγινε η παραλλαγή: https://ioniodi.github.io/pacman/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 1ο Παραδοτέο:
+Έγινε η επιλογή της εργασίας παραλλαγή του βιντεοπαιχνιδιού pacman.
 
-### Markdown
+# 2ο Παραδοτέο:
+Πραγματοποιήθηκε η αλλαγή μερικών αντικειμένων του παιχνιδιού. Ο πρωταγωνιστής του παιχνιδιού πλέον είναι ο Bugs Bunny ο οποίος αντί για κουκίδες μαζεύει καρότα. Επιπλέον πραγματοποιήθηκαν μικρές αλλαγές στην πίστα με τη χρήση του προγράματος Tiles.
+                          
+# 3ο Παραδοτέο:
+Όπως φαίνεται και παραπάνω προστέθηκε στο παιχνίδι extra αντικείμενα για τον ήρωα τα οποία δίνουν παραπάνω πόντους. Επιπλέον προστέθηκαν στο παιχνίδι 2 διαφορετικοί ήχοι. Ένας καθ’ όλη την διάρκεια του παιχνιδιού και ένας που ενεργοποιήτε τη στιγμή που ο ήρωας παίρνει τα boost τα 
+οποία απεικονίζονται έτσι:  
+Τέλος προστέθηκαν πόντοι τους οποίου συλλέγει ο παίχτης για κάθε ένα καρότο που μαζεύει, καθώς και για κάθε boost.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# ΤΕΛΟΣ 
+Στην εργασία αυτήν έγινε παραλλαγή του κλασικού παιχνιδιού Pacman με τη χρήση αντικειμένων από τα δημοφιλή επίσης παιχνίδια Looney Tunes.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elly1323/elly1323.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
